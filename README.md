@@ -1,0 +1,1 @@
+This Diabetes Prediction Dataset comprises medical and life attributes (glucose, BMI, blood pressure, age) to predict diabetes. It serves as a resource for machine learning classification studies in healthcare, aiming for early detection.
